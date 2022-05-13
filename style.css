@@ -71,13 +71,13 @@ p {
 }
 
 #navbar a {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
   position: relative;
   transition: 0.9s;
   padding: 10px;
   width: 170px;
-  text-decoration: none;
-  font-size: 18px;
-  color: white;
 
 }
 
